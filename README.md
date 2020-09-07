@@ -14,7 +14,7 @@
 
 ## Cena Espada de prata:
 <br>
-<img src="cena espada finalizada.png">
+<img src="Cena espada finalizada.png">
 <br>
 <br>
 <br>
