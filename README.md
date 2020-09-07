@@ -22,4 +22,4 @@
 <br>
 <br>
 <br>
-<img src="espada finalizada zoom.png">
+
